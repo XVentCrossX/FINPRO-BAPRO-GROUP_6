@@ -1,10 +1,10 @@
 # FINPRO-BAPRO-GROUP_6
 
-Name : Lando
+Name : Lando \n
 Contributions :
-
-Name : Hafizh
+\n
+Name : Hafizh \n
 Contribution : 
-
-Name : Evandra
+\n
+Name : Evandra \n
 Contribution : 
