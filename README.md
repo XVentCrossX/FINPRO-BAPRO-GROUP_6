@@ -2,12 +2,12 @@
 
 Name : Lando 
 
-Contributions :
+Contributions : Made the repository, Helping Hafizh with git stuff, Improving the codes
 
 Name : Hafizh 
 
-Contribution : 
+Contribution : Made the initial code,
 
 Name : Evandra 
 
-Contribution : 
+Contribution : Improving the codes,
